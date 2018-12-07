@@ -24,6 +24,14 @@ References for all scenes besides the final minigame:
     minigame-characters: https://mobilegamegraphics.itch.io/jetpack-hero-game-kit
     minigame-music: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100772
     minigame-sound effect: https://www.noiseforfun.com/
+    
+    bg1: https://timgsa.baidu.com/timg image&quality=80&size=b9999_10000&sec=1542888807736&di=3f5d904ff2c4b434e67258ce45bdda01&imgtype=0&src=http%3A%2F%2Fpic154.nipic.com%2Ffile%2F20180129%2F25535374_201114262000_2.jpg
+bg2: https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=666701813,2496778065&fm=26&gp=0.jpg
+bg3: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1542890514573&di=a587870a1e784e22f86903af49513bbf&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F00%2F57%2F83%2F66%2F5a33ca2c74a57.png%2521%2Ffwfh%2F804x473%2Fquality%2F90%2Funsharp%2Ftrue%2Fcompress%2Ftrue
+certificate: http://imgus.me/img/
+TikTok： https://opengameart.org/content/ticking-clock Author£ºbart
+HuanQin： Author£ºHai Lin
+Cash Register£： http://soundbible.com/333-Cash-Register-Cha-Ching.html
 
 
     
